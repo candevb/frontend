@@ -1,0 +1,30 @@
+#header-superior{
+    /* Define el color de fondo */
+    background-color: cornflowerblue;
+}
+#ap-icon{
+    /* Especifica la anchura */
+    height:100px;
+}
+#linkedin-icon{
+    /* Especifica la anchura */
+    height: 50px;
+}
+#red-social{
+    float: right;
+    margin-top:25px;
+    margin-right: 10px;
+}
+#banner{
+    width: 100%;
+}
+.row{
+    padding: 10px;
+}
+#acerca-de{
+    background-color: aliceblue;
+}
+#nombres-apellido{
+    font-weight:bold;
+    margin-top:25px;
+}
