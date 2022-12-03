@@ -1,30 +1,45 @@
+html{
+    padding: 30px;
+    background-color: dimgray;
+}
 #header-superior{
     /* Define el color de fondo */
-    background-color: cornflowerblue;
+    background-color: midnightblue;
 }
 #ap-icon{
-    /* Especifica la anchura */
-    height:100px;
+    /* Especifica la altura */
+    height: 100px;
+    margin-left: 40px;
 }
 #linkedin-icon{
-    /* Especifica la anchura */
-    height: 50px;
+    /* Especifica la altura */
+    height: 40px;
 }
 #red-social{
     float: right;
-    margin-top:25px;
-    margin-right: 10px;
+    margin-top: 30px;
+    margin-right: 40px;
 }
 #banner{
+    /* Especifica la anchura */
     width: 100%;
 }
 .row{
-    padding: 10px;
+    padding: 40px;
 }
 #acerca-de{
-    background-color: aliceblue;
+    background-color: whitesmoke;
+}
+#perfil{
+    /* Especifica la anchura */
+    width: 80%;
+    display:block;
+    margin:auto;
 }
 #nombres-apellido{
     font-weight:bold;
     margin-top:25px;
+}
+#experiencia{
+    background-color: white;
 }
